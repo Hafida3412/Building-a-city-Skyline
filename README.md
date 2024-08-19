@@ -1,6 +1,6 @@
 <h3 align="center">Building a city skyline</h3>
 
-<p align="left"> Utilisation des langages HTL et CSS</p>
+<p align="left"> Utilisation des langages HTML et CSS</p>
 
 <p align="left"> Effet jour: </p>
 
